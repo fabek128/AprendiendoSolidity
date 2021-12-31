@@ -20,6 +20,7 @@ la explicación quede claro cuál es la traducción.
     - El proyecto RSK	
 - Contratos Inteligentes (Smart Contracts)
 - Herramientas a usar
+	- TRUFFLE SUITE 
 	- Compilador de Solidity
 	- [NodeJS](https://github.com/ajlopez/AprendiendoSolidity/blob/master/NodeJS.md)
 	- [Nodo GanacheCLI](https://github.com/ajlopez/AprendiendoSolidity/blob/master/GanacheCLI.md)
